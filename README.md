@@ -2,13 +2,15 @@
 # MCalc
 A GUI based calculator built with C++ including a variety of functions.
 
+> Last Updated: 23/07/22
+
 # Features
 * Carry out basic arithmetic calculations
 * Work with trigonometric calculations
 * Conversion of angular values
 
-# Version
-* 0.0.1
+# Update Log
+[Update 1.0.0]()
 
 # Snapshots
 
