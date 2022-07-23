@@ -2,6 +2,8 @@
 # MCalc
 A GUI based calculator built with C++ including a variety of functions.
 
+> Released: 17/07/22
+
 > Last Updated: 23/07/22
 
 # Features
