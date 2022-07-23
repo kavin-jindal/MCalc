@@ -12,7 +12,7 @@ A GUI based calculator built with C++ including a variety of functions.
 * Conversion of angular values
 
 # Update Log
-[Update 1.0.0]()
+[Update 1.0.0](https://github.com/kavin-jindal/MCalc/releases/tag/v1.0.0)
 
 # Snapshots
 
